@@ -1,0 +1,9 @@
+* Learning Haskell Programming
+
+  This is my first funtional programming language. I have been wanting to learn functional programming language for a long time now. 
+
+* Notes
+
+* Resources
+
+  [[http://learnyouahaskell.com/chapters][Learn You a Haskell for Great Good!]]
